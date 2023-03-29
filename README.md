@@ -20,7 +20,7 @@ I am not afraid of difficulties and new ideas because I am a leader, with creati
 * Born facilitator 
 * Supporter of consistency, clear tasks and deadlines 
 * With me, you will never lose anything!
-
+--------------------------------------
 * 🌍  I'm based in Chisinau, Republic of Moldova
 * 🖥️  See my portfolio at [Examples of my Test Documentations](http://github.com/agarabajiu/My-portfolio)
 * ✉️  You can contact me at [garabajiualexandra27091991@gmail.com](mailto:garabajiualexandra27091991@gmail.com)
