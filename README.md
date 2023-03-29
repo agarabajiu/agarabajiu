@@ -13,7 +13,7 @@ As a Quality Assurance Manual Tester I can provide you with:
 * Bug reporting by Jira 
 * Testing the APIs Using PostMan 
 * Clarification of acceptance criteria and requirements 
-* Defining of new useful features 
+* Defining of new useful features
 I am not afraid of difficulties and new ideas because I am a leader, with creative and organizational skills, who knows how to achieve the goal and believes in what I do! 
 * Always open to new knowledge 
 * Have a big experience of interacting with different people from different fields 
