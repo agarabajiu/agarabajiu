@@ -29,3 +29,8 @@ With me, you will never lose anything!
 * ✉️  You can contact me at [garabajiualexandra27091991@gmail.com](mailto:garabajiualexandra27091991@gmail.com)
 * 🧠  I'm learning Linux
 
+--------------------------------------
+
+### My Socials
+
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100009199833209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/agarabajiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aleksandra_garabajiu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandra-garabajiu-ivanova/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
