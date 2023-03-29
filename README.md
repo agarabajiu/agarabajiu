@@ -25,7 +25,7 @@ With me, you will never lose anything!
 
 --------------------------------------
 * 🌍  I'm based in Chisinau, Republic of Moldova
-* 🖥️  See my CV at [My CV](http://github.com/agarabajiu/My-CV)
+* 🖥️  See my CV at [My CV](https://github.com/agarabajiu/My-CV/blob/main/Resume%20Garabajiu%20A%20final.pdf)
 * 🖥️  See my portfolio at [Examples of my Test Documentations](http://github.com/agarabajiu/My-portfolio)
 * ✉️  You can contact me at [garabajiualexandra27091991@gmail.com](mailto:garabajiualexandra27091991@gmail.com)
 * 🧠  Now I'm learning Linux
