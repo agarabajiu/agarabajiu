@@ -18,8 +18,8 @@ I am not afraid of difficulties and new ideas because I am a leader, with creati
 * Always open to new knowledge 
 * Have a big experience of interacting with different people from different fields 
 * Born facilitator 
-* Supporter of consistency, clear tasks and deadlines 
-* With me, you will never lose anything!
+* Supporter of consistency, clear tasks and deadlines  
+With me, you will never lose anything!
 --------------------------------------
 * 🌍  I'm based in Chisinau, Republic of Moldova
 * 🖥️  See my portfolio at [Examples of my Test Documentations](http://github.com/agarabajiu/My-portfolio)
